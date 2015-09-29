@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="02.Students.xslt"?>
+<academy xmlns:s="urn:students">
+  <student>
+    <name>Pesho</name>
+    <sex>Male</sex>
+    <birth-date>20/10/1990</birth-date>
+    <phone>359-88-8</phone>
+    <course>Databases</course>
+    <specialty>Web Development</specialty>
+    <faculty-number>1001</faculty-number>
+    <enrollment>
+      <exam>
+        <name>Entry test</name>
+        <tutor>Grandmaster</tutor>
+        <score>+Infinity</score>
+      </exam>
+    </enrollment>
+    <exams>
+      <exam>
+        <name>HTML</name>
+        <tutor>Gosho</tutor>
+        <score>-10</score>
+      </exam>
+      <exam>
+        <name>CSS</name>
+        <tutor>Gosho</tutor>
+        <score>2</score>
+      </exam>
+      <exam>
+        <name>DSA</name>
+        <tutor>Stamat</tutor>
+        <score>Off the scale</score>
+      </exam>
+    </exams>
+    <teacher-endorsements>
+      <endorsement>
+        <teacher>Grandmaster</teacher>
+        <endorsement-text>He might well be our savior</endorsement-text>
+      </endorsement>
+    </teacher-endorsements>
+  </student>
+  <student>
+    <name>John</name>
+    <sex>Male</sex>
+    <birth-date>02/01/1999</birth-date>
+    <phone>359-85-3</phone>
+    <course>Databases</course>
+    <specialty>Quality Assurance</specialty>
+    <faculty-number>1002</faculty-number>
+    <enrollment>
+      <exam>
+        <name>Entry test</name>
+        <tutor>John Sena</tutor>
+        <score>Demolished</score>
+      </exam>
+    </enrollment>
+    <exams>
+      <exam>
+        <name>HTML</name>
+        <tutor>Gosho</tutor>
+        <score>100</score>
+      </exam>
+      <exam>
+        <name>CSS</name>
+        <tutor>Petranka</tutor>
+        <score>15</score>
+      </exam>
+      <exam>
+        <name>DSA</name>
+        <tutor>Pesho</tutor>
+        <score>520</score>
+      </exam>
+    </exams>
+    <teacher-endorsements>
+      <endorsement>
+        <teacher>John Sena</teacher>
+        <endorsement-text>He them champ!</endorsement-text>
+      </endorsement>
+    </teacher-endorsements>
+  </student>
+</academy>
