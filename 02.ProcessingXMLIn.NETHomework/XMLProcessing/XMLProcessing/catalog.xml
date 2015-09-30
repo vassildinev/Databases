@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xslt"?>
+<catalog>
+  <album>
+    <name>Databases</name>
+    <artist>Telerik Academy</artist>
+    <year>2015</year>
+    <producer>Ivaylo Kenov</producer>
+    <price>0</price>
+    <songs>
+      <song>
+        <title>XML Processing in .Net</title>
+        <duration>1h 30m</duration>
+      </song>
+      <song>
+        <title>JSON Processing in .Net</title>
+        <duration>1h 20m</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>High-Quality Code</name>
+    <artist>Telerik Academy</artist>
+    <year>2015</year>
+    <producer>Nikolay Kostov</producer>
+    <price>0</price>
+    <songs>
+      <song>
+        <title>Design Patterns</title>
+        <duration>Forever</duration>
+      </song>
+      <song>
+        <title>SOLID and Other Principles</title>
+        <duration>3h 50m</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
